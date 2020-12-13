@@ -1,0 +1,20 @@
+{
+  "name": "@xxninjabunnyxx/npx-create-publish-to-npm-action",
+  "version": "0.0.1",
+  "description": "Create GitHub Action to publish to NPM",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxninjabunnyxx/npx-create-publish-to-npm-action.git"
+  },
+  "author": "xxninjabunnyxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxninjabunnyxx/npx-create-publish-to-npm-action/issues"
+  },
+  "homepage": "https://github.com/xxninjabunnyxx/npx-create-publish-to-npm-action#readme"
+}
