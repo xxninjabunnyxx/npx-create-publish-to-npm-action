@@ -1,6 +1,6 @@
 {
   "name": "@xxninjabunnyxx/npx-create-publish-to-npm-action",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Create GitHub Action to publish to NPM",
   "main": "index.js",
   "bin": "index.js",
